@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#this is the basemodel for the AirBnB project
+#this is the basemodel for the AirBnB projectt
 """ Class BaseModel """
 from datetime import datetime
 from uuid import uuid4
